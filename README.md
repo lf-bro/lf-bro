@@ -1,6 +1,5 @@
 <img src="./banner.gif" alt="L.F. PEMI MAGAR Banner for github profile section" style="width:100%;"/>
 <h3 align="center">languages and Tools, I'm familiar with</h3>
-<p>Languages</p>
 <div>
     <img  style="width:40px;" src="./logos/html.png" alt="html logo"/>
     <img style="width:40px;" src="./logos/css.png" alt="css logo"/>
@@ -15,10 +14,6 @@
     <img style="width:40px;" src="./logos/python.png" alt="python logo"/>
     <img style="width:40px;" src="./logos/gemini.png" alt="gemini logo"/>
     <img style="width:40px;" src="./logos/java.png" alt="java logo"/>
-</div>
-<br/>
-<p>Tools</p>
-<div>
     <img  style="width:40px;" src="./logos/ps.png" alt="ps logo"/>
     <img  style="width:40px;" src="./logos/ai.png" alt="ai logo"/>
     <img  style="width:40px;" src="./logos/pr.png" alt="pr logo"/>
