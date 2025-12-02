@@ -1,4 +1,4 @@
-<img src="./banner.gif" alt="L.F. PEMI MAGAR Banner for github profile section" style="width-100%"/>
+<img src="./banner.gif" alt="L.F. PEMI MAGAR Banner for github profile section" style="width:100%;"/>
 <h3 align="center">I am familiar with</h3>
 <p>Languages</p>
 <div style="width:20px;">
