@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, Myself L.F. PEMI MAGAR</h1>
+<p align="center">Hi 👋, I'm</p>
+<h1 align="center">L.F. PEMI MAGAR</h1>
 <h3 align="center">Wandering around the tech field.</h3>
 
 - 🔭 I’m currently working on **Back Track**
