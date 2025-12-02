@@ -1,7 +1,7 @@
 <img src="./banner.gif" alt="L.F. PEMI MAGAR Banner for github profile section" style="width-100%"/>
 <h3 align="center">I am familiar with</h3>
 <p>Languages</p>
-<div class="main">
+<div style="width:20px;">
     <img src="./logos/html.png" alt="html logo"/>
     <img src="./logos/css.png" alt="css logo"/>
     <img src="./logos/js.png" alt="js logo"/>
@@ -17,8 +17,3 @@
     <img src="./logos/java.png" alt="java logo"/>
     <img src="./logos/wordpress.png" alt="wordpress logo"/>
 </div>
-<style>
-    .main{
-        width:20px;
-    }
-</style>
