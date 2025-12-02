@@ -1,6 +1,6 @@
-<p align="center">Hi 👋, I'm</p>
+<p align="center" style="margin-bottom:0;">Hi 👋, I'm</p>
 <h1 align="center">L.F. PEMI MAGAR</h1>
-<h3 align="center">Wandering around the tech field.</h3>
+<p align="center">Wandering around the tech field.</p>
 
 - 🔭 I’m currently working on **Back Track**
 
