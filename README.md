@@ -1,7 +1,7 @@
 <img src="./banner.gif" alt="L.F. PEMI MAGAR Banner for github profile section" style="width:100%;"/>
 <h3 align="center">I am familiar with</h3>
 <p>Languages</p>
-<div>
+<div style="background-color:white;">
     <img  style="width:40px;" src="./logos/html.png" alt="html logo"/>
     <img style="width:40px;" src="./logos/css.png" alt="css logo"/>
     <img style="width:40px;" src="./logos/js.png" alt="js logo"/>
