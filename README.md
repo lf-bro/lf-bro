@@ -1,5 +1,5 @@
 <img src="./banner.gif" alt="L.F. PEMI MAGAR Banner for github profile section" style="width:100%;"/>
-<h3 align="center">languages and Tools, I'm familiar with</h3>
+<!-- <h3 align="center">languages and Tools, I'm familiar with</h3>
 <div>
     <img  style="width:40px;" src="./logos/html.png" alt="html logo"/>
     <img style="width:40px;" src="./logos/css.png" alt="css logo"/>
@@ -19,4 +19,4 @@
     <img  style="width:40px;" src="./logos/pr.png" alt="pr logo"/>
     <img  style="width:40px;" src="./logos/ae.png" alt="ae logo"/>
     <img style="width:40px;" src="./logos/wordpress.png" alt="wordpress logo"/>
-</div>
+</div> -->
